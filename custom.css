@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'CustomFont';
+    src: url('SpaceMono-Regular') format('truetype');
+}
+body {
+    font-size: 38.51pt; /* Convert 3mm to points */
+    line-height: 1.5;
+    font-family: CustomFont;
+    font-family: 'SpaceMono-Regular';
+    font-family: 'SpaceMono', monospace;
+}
