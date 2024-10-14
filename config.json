@@ -1,0 +1,17 @@
+{
+  "openai_api_key": "xxxxxx",
+   "telegram_bot_token": "xxxxxx",
+  "inline_keyboard_labels": [
+    "Sarcastic and Sassy",
+    "Enthusiastically Positive",
+    "Mysterious and Cryptic",
+    "Tech-Savvy and Analytical"
+  ],
+  "default_prompt": "be sarcastic and a little bit mean. What’s in this image?",
+  "prompts": [
+    "be sarcastic and a little bit Sassy. What’s in this image?",
+    "be positive. What’s in this image?",
+    "be Mysterious and Cryptic. What’s in this image?",
+    "be Tech-Savvy and Analytical. What’s in this image?"
+  ]
+}
