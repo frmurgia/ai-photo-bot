@@ -1,9 +1,9 @@
 # Creating a Telegram Bot with OpenAI Integration
 
-<img src="./img/1.png"  width="200">
-<img src="./img/2.png" width="200">
-<img src="./img/3.png"  width="200">
-<img src="./img/4.png"  width="200">
+<img src="./img/1.png"  width="500">
+<img src="./img/2.png" width="500">
+<img src="./img/3.png"  width="500">
+<img src="./img/4.png"  width="500">
 
 
 
@@ -37,10 +37,10 @@ To create a Telegram bot, you need to interact with BotFather, which is the offi
 By following these steps, you will have successfully created a Telegram bot and obtained the token necessary for integration with the script.
 
 
-<img src="./img/step 1.png"  width="300">
-<img src="./img/step 2.png" width="200">
-<img src="./img/step 3.png"  width="200">
-<img src="./img/step 4.png"  width="200">
+<img src="./img/step 1.png"  width="500">
+<img src="./img/step 2.png" width="500">
+<img src="./img/step 3.png"  width="500">
+<img src="./img/step 4.png"  width="500">
 
 
 
