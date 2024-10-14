@@ -1,5 +1,12 @@
 # Creating a Telegram Bot with OpenAI Integration
 
+<img src="./img/1.png"  width="200">
+<img src="./img/2.png" width="200">
+<img src="./img/3.png"  width="200">
+<img src="./img/4.png"  width="200">
+
+
+
 ## Introduction
 
 In this guide, we'll walk through the process of creating a Telegram bot that can take photos, send them to OpenAI and then return the generated text back to the user.
